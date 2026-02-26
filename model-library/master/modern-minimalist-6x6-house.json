@@ -1,0 +1,3408 @@
+{
+  "version": "1.0",
+  "name": "modern-minimalist-6x6-house",
+  "description": "",
+  "sketches": [
+    {
+      "id": 1,
+      "name": "Sketch_1",
+      "dimensions": [
+        {
+          "length": 2.8,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sketch_2",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sketch_3",
+      "dimensions": [
+        {
+          "length": 1.8,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sketch_4",
+      "dimensions": [
+        {
+          "length": 4.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sketch_5",
+      "dimensions": [
+        {
+          "length": 5.5,
+          "angle": 180
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 6
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sketch_6",
+      "dimensions": [
+        {
+          "length": 3,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sketch_7",
+      "dimensions": [
+        {
+          "length": 0.5,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sketch_8",
+      "dimensions": [
+        {
+          "length": 3,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sketch_9",
+      "dimensions": [
+        {
+          "length": 3,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_drywall",
+      "wallType": "interior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sketch_10",
+      "dimensions": [
+        {
+          "length": 2.3,
+          "angle": 180
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_drywall",
+      "wallType": "interior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sketch_11",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_drywall",
+      "wallType": "interior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sketch_14",
+      "dimensions": [
+        {
+          "length": 0.8,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 2.95
+      },
+      "startAngle": -90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "door",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "doorType": "single",
+      "wallThickness": 0.15,
+      "materialId": "door_wood",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 2.95
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 2.15
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sketch_15",
+      "dimensions": [
+        {
+          "length": 0.8,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 3,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "door",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "doorType": "single",
+      "wallThickness": 0.15,
+      "materialId": "door_wood",
+      "points": [
+        {
+          "x": 3,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 3.8,
+          "y": 0,
+          "z": 1.8
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sketch_16",
+      "dimensions": [
+        {
+          "length": 1.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 3.5
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "door",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "doorType": "sliding",
+      "wallThickness": 0.25,
+      "materialId": "door_glass",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3.5
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 4.7
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Sketch_17",
+      "dimensions": [
+        {
+          "length": 0.6,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 4.95
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 1.1,
+      "windowSillLevel": 0.9,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 4.95
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 5.55
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Sketch_18",
+      "dimensions": [
+        {
+          "length": 2.1,
+          "angle": 180
+        },
+        {
+          "length": 4.2,
+          "angle": -90
+        },
+        {
+          "length": 2.1,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 5.95,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "label",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "kitchen",
+      "points": [
+        {
+          "x": 5.95,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 3.85,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 3.85,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 5.95,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Sketch_19",
+      "dimensions": [
+        {
+          "length": 3.35,
+          "angle": 0
+        },
+        {
+          "length": 2.95,
+          "angle": 90
+        },
+        {
+          "length": 3.35,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "label",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "grand room",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 3.85,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 3.85,
+          "y": 0,
+          "z": 5.95
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 5.95
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sketch_20",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 0
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "label",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "bathroom",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Sketch_21",
+      "dimensions": [
+        {
+          "length": 2.75,
+          "angle": 0
+        },
+        {
+          "length": 3,
+          "angle": 90
+        },
+        {
+          "length": 2.75,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.05,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "label",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "bedroom",
+      "points": [
+        {
+          "x": 0.05,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.05,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Sketch_22",
+      "dimensions": [
+        {
+          "length": 1.8,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 4.85,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "curtainWall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "curtainWall_glass_clear",
+      "points": [
+        {
+          "x": 4.85,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 4.85,
+          "y": 0,
+          "z": 1.8
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Sketch_24",
+      "dimensions": [
+        {
+          "length": 1,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 1.45
+      },
+      "startAngle": -90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 1.1,
+      "windowSillLevel": 0.9,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1.45
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.45
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Sketch_25",
+      "dimensions": [
+        {
+          "length": 1,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 1.55
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 1.1,
+      "windowSillLevel": 0.9,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1.55
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 2.55
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sketch_26",
+      "dimensions": [
+        {
+          "length": 0.8,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 3.5
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 0.5,
+      "windowSillLevel": 1,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 3.5
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 4.3
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Sketch_27",
+      "dimensions": [
+        {
+          "length": 0.8,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 3.3,
+        "y": 0,
+        "z": 6
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 1.1,
+      "windowSillLevel": 0.9,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 3.3,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 4.1,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Sketch_28",
+      "dimensions": [
+        {
+          "length": 0.8,
+          "angle": 0
+        }
+      ],
+      "startPoint": {
+        "x": 4.3,
+        "y": 0,
+        "z": 6
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "window",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "windowHeight": 1.1,
+      "windowSillLevel": 0.9,
+      "wallThickness": 0.25,
+      "materialId": "window_glass_clear",
+      "points": [
+        {
+          "x": 4.3,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 5.1,
+          "y": 0,
+          "z": 6
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Sketch_30",
+      "dimensions": [
+        {
+          "length": 6.5,
+          "angle": 0
+        },
+        {
+          "length": 6.5,
+          "angle": 90
+        },
+        {
+          "length": 6.5,
+          "angle": 90
+        },
+        {
+          "length": 6.5,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": -0.25,
+        "y": 0,
+        "z": -0.25
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.2,
+      "mode": "roof",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "roofType": "flat",
+      "flatInclinationAngle": 6,
+      "labelText": "",
+      "materialId": "roof_shingle",
+      "points": [
+        {
+          "x": -0.25,
+          "y": 0,
+          "z": -0.25
+        },
+        {
+          "x": 6.25,
+          "y": 0,
+          "z": -0.25
+        },
+        {
+          "x": 6.25,
+          "y": 0,
+          "z": 6.25
+        },
+        {
+          "x": -0.25,
+          "y": 0,
+          "z": 6.25
+        },
+        {
+          "x": -0.25,
+          "y": 0,
+          "z": -0.25
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Sketch_31",
+      "dimensions": [],
+      "startPoint": null,
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "ceilingLamp",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "point",
+      "labelText": "",
+      "lampDiameter": 0.15,
+      "lampColor": "#ffffcc",
+      "points": [
+        {
+          "x": 4.25,
+          "y": 0,
+          "z": 3.75
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Sketch_32",
+      "dimensions": [],
+      "startPoint": null,
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "ceilingLamp",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "point",
+      "labelText": "",
+      "lampDiameter": 0.15,
+      "lampColor": "#ffffcc",
+      "points": [
+        {
+          "x": 1.7,
+          "y": 0,
+          "z": 4.35
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Sketch_33",
+      "dimensions": [],
+      "startPoint": null,
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "ceilingLamp",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "point",
+      "labelText": "",
+      "lampDiameter": 0.15,
+      "lampColor": "#ffffcc",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 4.5
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Sketch_34",
+      "dimensions": [],
+      "startPoint": null,
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "ceilingLamp",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "point",
+      "labelText": "",
+      "lampDiameter": 0.15,
+      "lampColor": "#ffffcc",
+      "points": [
+        {
+          "x": 3.85,
+          "y": 0,
+          "z": 1.05
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Sketch_35",
+      "dimensions": [],
+      "startPoint": null,
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "ceilingLamp",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "point",
+      "labelText": "",
+      "lampDiameter": 0.15,
+      "lampColor": "#ffffcc",
+      "points": [
+        {
+          "x": 1.35,
+          "y": 0,
+          "z": 1.6
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Sketch_36",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 0
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 5.9,
+        "y": 0,
+        "z": -0.1
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": -0.1
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Sketch_37",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 180
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 6.1,
+        "y": 0,
+        "z": 3.1
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 3.1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Sketch_38",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 180
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 6.1,
+        "y": 0,
+        "z": 6.1
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 5.9,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 6.1,
+          "y": 0,
+          "z": 6.1
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Sketch_40",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 180
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 2.9,
+        "y": 0,
+        "z": 0.1
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 0.1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Sketch_41",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 0
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 2.7,
+        "y": 0,
+        "z": 5.9
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 5.9
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Sketch_42",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 0
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 2.7,
+        "y": 0,
+        "z": 2.9
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 2.9,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 2.7,
+          "y": 0,
+          "z": 2.9
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Sketch_44",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 0
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.4,
+        "y": 0,
+        "z": 5.9
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "pillar_concrete",
+      "points": [
+        {
+          "x": 0.4,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 0.6,
+          "y": 0,
+          "z": 5.9
+        },
+        {
+          "x": 0.6,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 0.4,
+          "y": 0,
+          "z": 6.1
+        },
+        {
+          "x": 0.4,
+          "y": 0,
+          "z": 5.9
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Sketch_45",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "painted": true,
+      "paintTexturePath": "tiles interior/plain/50x50/0051-plain-color-floor-tiles-white-grout-line-cm-50x50-texture-seamless.jpg",
+      "materialId": "floor_tile",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Sketch_46",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 4.15,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 4.15,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 1.85
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "floor_tile",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.85
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.85
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.85
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Sketch_47",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "slab",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "slab_concrete",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Sketch_48",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 0
+        },
+        {
+          "length": 4.2,
+          "angle": 90
+        },
+        {
+          "length": 3.2,
+          "angle": 90
+        },
+        {
+          "length": 4.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 1.8
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "slab",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "slab_concrete",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Sketch_49",
+      "dimensions": [
+        {
+          "length": 2.8,
+          "angle": 180
+        },
+        {
+          "length": 3,
+          "angle": -90
+        },
+        {
+          "length": 2.8,
+          "angle": -90
+        },
+        {
+          "length": 3,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "slab",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "slab_concrete",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Sketch_50",
+      "dimensions": [
+        {
+          "length": 2.8,
+          "angle": 180
+        },
+        {
+          "length": 2.95,
+          "angle": -90
+        },
+        {
+          "length": 2.8,
+          "angle": -90
+        },
+        {
+          "length": 2.95,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "slab",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "slab_concrete",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 5.95
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 5.95
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Sketch_51",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "floor_concrete",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Sketch_52",
+      "dimensions": [
+        {
+          "length": 2.8,
+          "angle": 180
+        },
+        {
+          "length": 3,
+          "angle": -90
+        },
+        {
+          "length": 2.8,
+          "angle": -90
+        },
+        {
+          "length": 3,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.8,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "floor_tile",
+      "points": [
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Sketch_53",
+      "dimensions": [
+        {
+          "length": 2.25,
+          "angle": 180
+        },
+        {
+          "length": 3,
+          "angle": -90
+        },
+        {
+          "length": 2.25,
+          "angle": -90
+        },
+        {
+          "length": 3,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 2.75,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "floor_tile",
+      "points": [
+        {
+          "x": 2.75,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 2.75,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 2.75,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Sketch_54",
+      "dimensions": [
+        {
+          "length": 0.5,
+          "angle": 180
+        },
+        {
+          "length": 3.05,
+          "angle": -90
+        },
+        {
+          "length": 0.5,
+          "angle": -90
+        },
+        {
+          "length": 3.05,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": "levelMin",
+      "materialId": "floor_concrete",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 6.05
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 6.05
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Sketch_55",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 180
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.6,
+        "y": 0,
+        "z": 3.1
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "column_concrete",
+      "points": [
+        {
+          "x": 0.6,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 0.4,
+          "y": 0,
+          "z": 3.1
+        },
+        {
+          "x": 0.4,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 0.6,
+          "y": 0,
+          "z": 2.9
+        },
+        {
+          "x": 0.6,
+          "y": 0,
+          "z": 3.1
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Sketch_56",
+      "dimensions": [
+        {
+          "length": 0.2,
+          "angle": 180
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        },
+        {
+          "length": 0.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.65,
+        "y": 0,
+        "z": 0.1
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "column",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangleCenter",
+      "labelText": "",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "materialId": "column_concrete",
+      "points": [
+        {
+          "x": 0.65,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 0.45,
+          "y": 0,
+          "z": 0.1
+        },
+        {
+          "x": 0.45,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 0.65,
+          "y": 0,
+          "z": -0.1
+        },
+        {
+          "x": 0.65,
+          "y": 0,
+          "z": 0.1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Sketch_57",
+      "dimensions": [
+        {
+          "length": 0.15,
+          "angle": -90
+        },
+        {
+          "length": 0.15,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 0.15
+      },
+      "startAngle": -90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.15
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0.15,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Sketch_58",
+      "dimensions": [
+        {
+          "length": 0.15,
+          "angle": 90
+        },
+        {
+          "length": 0.15,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 2.85
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.25,
+      "mode": "wall",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "materialId": "wall_concrete",
+      "wallType": "exterior",
+      "wallBottom": "levelMin",
+      "wallTop": "levelMax",
+      "painted": true,
+      "paintColor": "#ffffff",
+      "paintColorExterior": "#ffffff",
+      "paintColorInterior": "#ffffff",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 2.85
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0.15,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Sketch_59",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 1.8,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "ceiling",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "materialId": "ceiling_gypsum",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.8
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Sketch_60",
+      "dimensions": [
+        {
+          "length": 3.2,
+          "angle": 180
+        },
+        {
+          "length": 4.25,
+          "angle": -90
+        },
+        {
+          "length": 3.2,
+          "angle": -90
+        },
+        {
+          "length": 4.25,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 6,
+        "y": 0,
+        "z": 1.75
+      },
+      "startAngle": 180,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "ceiling",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "materialId": "ceiling_gypsum",
+      "points": [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.75
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 1.75
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 6
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 1.75
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Sketch_61",
+      "dimensions": [
+        {
+          "length": 2.8,
+          "angle": 0
+        },
+        {
+          "length": 3,
+          "angle": 90
+        },
+        {
+          "length": 2.8,
+          "angle": 90
+        },
+        {
+          "length": 3,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "ceiling",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "materialId": "ceiling_gypsum",
+      "points": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Sketch_62",
+      "dimensions": [
+        {
+          "length": 2.3,
+          "angle": 0
+        },
+        {
+          "length": 2.95,
+          "angle": 90
+        },
+        {
+          "length": 2.3,
+          "angle": 90
+        },
+        {
+          "length": 2.95,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 0.5,
+        "y": 0,
+        "z": 3
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "ceiling",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "materialId": "ceiling_gypsum",
+      "points": [
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 3
+        },
+        {
+          "x": 2.8,
+          "y": 0,
+          "z": 5.95
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 5.95
+        },
+        {
+          "x": 0.5,
+          "y": 0,
+          "z": 3
+        }
+      ]
+    }
+  ],
+  "buildingLevels": [
+    {
+      "id": 1,
+      "height": 2.6,
+      "yMin": 0,
+      "yMax": 2.6
+    }
+  ],
+  "selectedLevelId": 1,
+  "wallThickness": 0.15,
+  "defaultLampDiameter": 0.15,
+  "defaultLampColor": "#ffffcc",
+  "defaultLampLightIntensity": 1.5,
+  "defaultStairRiserHeight": 0.18,
+  "defaultStairGoing": 0.28,
+  "hasWalls": true,
+  "stlImports": [
+    {
+      "id": 1,
+      "levelId": 1,
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 1.91,
+        "y": 0,
+        "z": 5.35
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 700
+    },
+    {
+      "id": 2,
+      "levelId": 1,
+      "filename": "furniture-family-room/TV_table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 1.81,
+        "y": 0,
+        "z": 3.28
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 3,
+      "levelId": 1,
+      "filename": "electronics/TV-55-inch.stl",
+      "folderPath": "electronics",
+      "folderName": "electronics",
+      "position": {
+        "x": 1.82,
+        "y": 0.64,
+        "z": 3.26
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 600
+    },
+    {
+      "id": 4,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-stove-500x800x850.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 4.3,
+        "y": 0,
+        "z": 2.12
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1000
+    },
+    {
+      "id": 5,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 5.6,
+        "y": 0,
+        "z": 3.04
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 6,
+      "levelId": 1,
+      "filename": "furniture-bathroom/vanity-sink.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 3.65,
+        "y": 0,
+        "z": 0.38
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 7,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 5.63,
+        "y": 1.5,
+        "z": 3.06
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 8,
+      "levelId": 1,
+      "filename": "furniture-kitchen/refrigerator.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 5.34,
+        "y": 0,
+        "z": 4.71
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1200
+    },
+    {
+      "id": 9,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-table-4-seating.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 3.89,
+        "y": 0,
+        "z": 4.52
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 10,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 3.86,
+        "y": 0,
+        "z": 3.8
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 11,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 3.89,
+        "y": 0,
+        "z": 5.39
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 12,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 3.32,
+        "y": 0,
+        "z": 4.44
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 13,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 4.53,
+        "y": 0,
+        "z": 4.41
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 14,
+      "levelId": 1,
+      "filename": "furniture-bedroom/queen-bed.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 1.94,
+        "y": 0,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 800,
+      "materialColor": null,
+      "texturePath": "fabrics/canvas/0001-canvas-fabric-texture-seamless.jpg"
+    },
+    {
+      "id": 15,
+      "levelId": 1,
+      "filename": "furniture-bedroom/nightstand.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 0.72,
+        "y": 0,
+        "z": 0.34
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 800
+    },
+    {
+      "id": 16,
+      "levelId": 1,
+      "filename": "furniture-bedroom/table-lamp.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 0.69,
+        "y": 0.65,
+        "z": 0.32
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 800
+    },
+    {
+      "id": 17,
+      "levelId": 1,
+      "filename": "furniture-bathroom/toilet.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 4.46,
+        "y": 0.01,
+        "z": 0.54
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 800
+    },
+    {
+      "id": 18,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-sink.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 5.6,
+        "y": 0,
+        "z": 3.86
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 19,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 5.61,
+        "y": 1.5,
+        "z": 3.9
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    }
+  ],
+  "dimensionTextOverrides": {
+    "1": {
+      "H,0,0.050000,2.800000": {
+        "x": 1.368644067796609,
+        "z": -0.9671610169491522
+      },
+      "H,0,2.800000,6.000000": {
+        "x": 4.279131355932202,
+        "z": -0.9486228813559321
+      },
+      "extent-H": {
+        "x": 2.907309322033897,
+        "z": -1.6345338983050848
+      },
+      "H,5.95,0.500000,3.850000": {
+        "x": 2.1843220338983054,
+        "z": 7.0042372881355925
+      },
+      "H,3,0.050000,2.800000": {
+        "x": 1.1276483050847461,
+        "z": 6.577860169491524
+      },
+      "V,3.85,1.800000,6.000000": {
+        "x": 6.985699152542374,
+        "z": 3.8342161016949143
+      },
+      "extent-V": {
+        "x": 7.708686440677966,
+        "z": 2.981461864406779
+      },
+      "V,3.85,3.000000,5.950000": {
+        "x": 5.094809322033899,
+        "z": 4.427436440677965
+      },
+      "V,2.8000000000000003,0.000000,3.000000": {
+        "x": -0.7445731343953335,
+        "z": 1.0519673736231177
+      },
+      "V,6,0.000000,1.800000": {
+        "x": 7.002711565007436,
+        "z": 0.9044936801065654
+      },
+      "H,0,0.000000,1.750000": {
+        "x": 1.0179378531073446,
+        "z": -1.005649717514125
+      },
+      "V,4.95,0.000000,2.500000": {
+        "x": 8.713924008434024,
+        "z": 1.2669517882948707
+      }
+    }
+  },
+  "customTextAnnotations": {},
+  "dimensionHiddenKeys": {
+    "1": [
+      "H,3,0.500000,3.850000",
+      "H,1.8,3.850000,5.950000"
+    ]
+  },
+  "customDimensions": {
+    "1": [
+      {
+        "id": 1,
+        "type": "points",
+        "p1": {
+          "x": 1.1195284559675733e-18,
+          "z": 3.01828328717712
+        },
+        "p2": {
+          "x": 1.8413075766909513e-16,
+          "z": 6.007083475779206
+        },
+        "isHorizontal": false,
+        "linePosition": {
+          "x": -0.7544047139631109
+        }
+      }
+    ]
+  },
+  "labelPositionOverrides": {
+    "1": {
+      "18": {
+        "x": 4.39734297954838,
+        "z": 3.10676750328705
+      }
+    }
+  },
+  "doorFlippedOverrides": {
+    "14": true,
+    "16": true,
+    "30": true,
+    "31": true
+  }
+}
