@@ -1,0 +1,5 @@
+Statics and dynamics are fundamental topics in engineering mechanics that study the behavior of bodies under the action of forces.
+
+Statics deals with systems in equilibrium, where objects are either at rest or moving with constant velocity. In statics, the sum of forces and the sum of moments acting on a body are zero. This topic focuses on analyzing forces, moments, reactions, and load distributions in structures and mechanical components such as beams, trusses, frames, and cables.
+
+Dynamics studies the motion of bodies when forces cause acceleration. It is concerned with how objects move and how their motion changes over time under the influence of forces. Dynamics is commonly divided into kinematics, which describes motion without considering forces, and kinetics, which relates motion to the forces and moments causing it. This topic is essential for analyzing moving systems such as vehicles, machinery, vibrations, and impact problems.

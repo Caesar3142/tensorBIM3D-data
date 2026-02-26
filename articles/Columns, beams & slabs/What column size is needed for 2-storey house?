@@ -1,0 +1,13 @@
+The required column size for a 2-storey house depends on several factors such as structural system, span lengths, soil bearing capacity, material strength, and building loads. There is no single universal size, but there are common practical ranges used in residential construction.
+
+For a typical reinforced concrete 2-storey house with spans around 3 to 4 meters and normal residential loading, a common preliminary column size is 200 mm × 200 mm to 250 mm × 250 mm. In many cases, 250 mm × 250 mm is considered a safer and more robust starting dimension, especially when beam spans are longer or when the upper floor includes heavier loads such as concrete slabs and masonry walls.
+
+If the column supports larger spans, heavier roof structures, or has fewer columns (meaning higher load concentration), the size may increase to 300 mm × 300 mm. Conversely, for smaller spans and lighter structures, 200 mm × 200 mm may be sufficient, but it must still meet structural code requirements for slenderness and reinforcement ratio.
+
+Column height also influences design. For a typical storey height of 2.8 to 3.2 meters, slenderness effects are usually manageable with the sizes mentioned above. However, if the ground floor has a higher ceiling, such as 3.5 meters or more, column dimensions may need to increase to control buckling and deflection.
+
+Reinforcement detailing is equally important as column size. For a 250 mm × 250 mm column, typical reinforcement might include 4 to 8 vertical bars (for example 12 mm to 16 mm diameter) with proper stirrup spacing, depending on load calculations. The actual reinforcement must be determined through structural analysis based on design loads and local building codes.
+
+Foundation conditions also matter. If soil bearing capacity is low, column loads must be carefully distributed through properly sized footings, and column dimensions may increase accordingly.
+
+As a preliminary conceptual guide for a standard 2-storey residential house with moderate spans, a reinforced concrete column size of 250 mm × 250 mm is commonly used. However, final sizing must be confirmed by a structural engineer through load calculations, material strength verification, and compliance with local structural design codes.

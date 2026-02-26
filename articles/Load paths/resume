@@ -1,0 +1,19 @@
+Load paths describe the routes through which forces travel within a building structure, from where loads are applied to where they are ultimately resisted by the ground. In a house, understanding load paths is essential for ensuring structural safety, stability, and durability. A clear and continuous load path allows forces to be transferred efficiently without overstressing any structural element.
+
+Loads acting on a house originate from several sources. These include dead loads from the weight of the structure itself, live loads from occupants, furniture, and equipment, and environmental loads such as wind, earthquakes, snow, or rain. Each of these loads must be safely carried through the structure along a defined path.
+
+Vertical load paths handle gravity-related forces. Loads from roofs, floors, and walls are first carried by slabs or roof structures, then transferred to beams or load-bearing walls. From there, the forces move down into columns or walls and finally into the foundation, which distributes them into the soil. Any interruption or weakness along this vertical path can lead to excessive deflection, cracking, or structural failure.
+
+Horizontal load paths deal with lateral forces such as wind or seismic action. These forces act on walls, roofs, and floors and must be transferred to elements capable of resisting sideways movement. Floors and roofs often act as horizontal diaphragms, collecting lateral forces and distributing them to vertical resisting elements such as shear walls, braced frames, or moment-resisting frames.
+
+Connections between structural elements are critical to maintaining effective load paths. Beams must be properly connected to columns, slabs to beams, and walls to foundations so that forces can pass from one element to another without sudden changes in stiffness or strength. Poorly detailed or weak connections can break the load path even if individual elements are strong enough.
+
+Continuity is a key principle in load path design. Structural elements should align vertically and horizontally so that loads can flow naturally through the building. Sudden offsets, irregular layouts, or unsupported elements can cause load concentrations and unpredictable behavior. Regular and continuous load paths improve structural reliability and performance.
+
+Foundations play a crucial role in completing load paths. They receive loads from the superstructure and transfer them into the ground. If foundations are improperly sized or placed on unsuitable soil, the load path is disrupted at its final stage, leading to settlement or instability even if the upper structure is well designed.
+
+Load paths must be considered for all stages of the building’s life. Temporary conditions during construction, changes in use, or future modifications can alter how loads are applied and transferred. Designing with clear load paths helps ensure that the structure remains safe under both current and potential future conditions.
+
+In areas prone to earthquakes or strong winds, load paths become even more critical. Lateral forces must be transferred smoothly from the roof and floors down to the foundation without weak links. Ductile detailing and redundancy in load paths help the structure absorb energy and avoid sudden collapse.
+
+Overall, load paths are the backbone of structural behavior in a house. By clearly identifying how forces move through slabs, beams, columns, walls, and foundations, designers can ensure that loads are safely resisted. A well-defined load path results in a structure that is stable, predictable, and capable of performing reliably throughout its lifespan.
