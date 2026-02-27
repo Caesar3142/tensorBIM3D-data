@@ -1048,6 +1048,283 @@
           "z": 2.9
         }
       ]
+    },
+    {
+      "id": 24,
+      "name": "Sketch_24",
+      "dimensions": [
+        {
+          "length": 3,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 1.5,
+        "y": 0,
+        "z": 4.4
+      },
+      "startAngle": 90,
+      "levelId": 1,
+      "thickness": 0.05,
+      "mode": "door",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "doorHeight": 2,
+      "doorType": "sliding",
+      "painted": true,
+      "paintColor": "#f7f7f7",
+      "wallThickness": 0.25,
+      "materialId": "door_glass",
+      "points": [
+        {
+          "x": 1.5,
+          "y": 0,
+          "z": 4.4
+        },
+        {
+          "x": 1.5,
+          "y": 0,
+          "z": 7.4
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Sketch_25",
+      "dimensions": [
+        {
+          "length": 1,
+          "angle": 0
+        },
+        {
+          "length": 3.3,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 5,
+        "y": 0,
+        "z": 3.3
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "stair",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "stairBottom": "levelMin",
+      "stairTop": {
+        "offsetBelowMax": 1.5
+      },
+      "riserHeight": 0.2,
+      "goingDimension": 0.28,
+      "painted": true,
+      "paintTexturePath": "wood/fine-wood/dark-wood/cherry-dark-wood.jpg",
+      "materialId": "stair_concrete",
+      "points": [
+        {
+          "x": 5,
+          "y": 0,
+          "z": 3.3
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 3.3
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sketch_26",
+      "dimensions": [
+        {
+          "length": 2.1,
+          "angle": 0
+        },
+        {
+          "length": 1.1,
+          "angle": -90
+        },
+        {
+          "length": 2.1,
+          "angle": -90
+        },
+        {
+          "length": 1.1,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 5,
+        "y": 0,
+        "z": 1.1
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.02,
+      "mode": "floor",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": {
+        "offsetAboveMin": 1.4
+      },
+      "materialId": "floor_wood",
+      "points": [
+        {
+          "x": 5,
+          "y": 0,
+          "z": 1.1
+        },
+        {
+          "x": 7.1,
+          "y": 0,
+          "z": 1.1
+        },
+        {
+          "x": 7.1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 5,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 5,
+          "y": 0,
+          "z": 1.1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Sketch_27",
+      "dimensions": [
+        {
+          "length": 1.15,
+          "angle": -180
+        },
+        {
+          "length": 2.2,
+          "angle": -90
+        }
+      ],
+      "startPoint": {
+        "x": 7.1,
+        "y": 0,
+        "z": 1.1
+      },
+      "startAngle": -180,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "stair",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "lines",
+      "labelText": "",
+      "stairBottom": {
+        "offsetAboveMin": 1.5
+      },
+      "stairTop": "levelMax",
+      "painted": true,
+      "paintTexturePath": "wood/fine-wood/dark-wood/cherry-dark-wood.jpg",
+      "materialId": "stair_concrete",
+      "points": [
+        {
+          "x": 7.1,
+          "y": 0,
+          "z": 1.1
+        },
+        {
+          "x": 5.95,
+          "y": 0,
+          "z": 1.1
+        },
+        {
+          "x": 5.95,
+          "y": 0,
+          "z": 3.3
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Sketch_28",
+      "dimensions": [
+        {
+          "length": 2.1,
+          "angle": 0
+        },
+        {
+          "length": 1.2,
+          "angle": 90
+        },
+        {
+          "length": 2.1,
+          "angle": 90
+        },
+        {
+          "length": 1.2,
+          "angle": 90
+        }
+      ],
+      "startPoint": {
+        "x": 5,
+        "y": 0,
+        "z": 0
+      },
+      "startAngle": 0,
+      "levelId": 1,
+      "thickness": 0.15,
+      "mode": "slab",
+      "visible": true,
+      "sketchLayerVisible": true,
+      "toolType": "rectangle",
+      "labelText": "",
+      "floorBottom": {
+        "offsetAboveMin": 1.4
+      },
+      "materialId": "slab_concrete",
+      "points": [
+        {
+          "x": 5,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 7.1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 7.1,
+          "y": 0,
+          "z": 1.2
+        },
+        {
+          "x": 5,
+          "y": 0,
+          "z": 1.2
+        },
+        {
+          "x": 5,
+          "y": 0,
+          "z": 0
+        }
+      ]
     }
   ],
   "buildingLevels": [
