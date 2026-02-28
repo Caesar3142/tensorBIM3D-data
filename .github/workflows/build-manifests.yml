@@ -42,3 +42,9 @@ jobs:
             git commit -m "chore: auto-update articles-bundle and geometry-library-manifest"
             git push origin HEAD:${{ github.ref_name }}
           fi
+
+      - name: Purge jsDelivr CDN cache
+        run: |
+          echo "Purging jsDelivr cache so app gets fresh data..."
+          curl -sS "https://purge.jsdelivr.net/gh/Caesar3142/tensorBIM3D-data@main/geometry-library-manifest.json" || true
+          curl -sS "https://purge.jsdelivr.net/gh/Caesar3142/tensorBIM3D-data@main/articles-bundle.json" || true
