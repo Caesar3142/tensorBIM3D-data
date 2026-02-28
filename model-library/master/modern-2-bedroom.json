@@ -8423,78 +8423,6 @@
   "hasWalls": true,
   "stlImports": [
     {
-      "id": 1,
-      "levelId": 1,
-      "filename": "vehicle/sedan-car.stl",
-      "folderPath": "vehicle",
-      "folderName": "vehicle",
-      "position": {
-        "x": 2.9,
-        "y": 0,
-        "z": 2.52
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 25000
-    },
-    {
-      "id": 2,
-      "levelId": 1,
-      "filename": "vehicle/sedan-car.stl",
-      "folderPath": "vehicle",
-      "folderName": "vehicle",
-      "position": {
-        "x": 2.94,
-        "y": 0,
-        "z": 4.49
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 25000
-    },
-    {
-      "id": 3,
-      "levelId": 1,
-      "filename": "furniture-bedroom/king-bed.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 16.08,
-        "y": 0,
-        "z": 13.64
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 1200
-    },
-    {
       "id": 4,
       "levelId": 1,
       "filename": "furniture-bedroom/nightstand.stl",
@@ -8543,15 +8471,15 @@
       "unitPrice": 200
     },
     {
-      "id": 6,
+      "id": 31,
       "levelId": 1,
-      "filename": "furniture-bedroom/table-lamp.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
+      "filename": "furniture-kitchen/kitchen-island.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
       "position": {
-        "x": 17.22,
-        "y": 0.76,
-        "z": 14.53
+        "x": 13.51,
+        "y": 0,
+        "z": 2.91
       },
       "rotation": {
         "x": 0,
@@ -8564,18 +8492,474 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 80
+      "unitPrice": 0
     },
     {
-      "id": 7,
+      "id": 30,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-table-4-seating.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 13.04,
+        "y": 0,
+        "z": 4.89
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 600
+    },
+    {
+      "id": 10,
+      "levelId": 1,
+      "filename": "furniture-bedroom/nightstand.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 4.63,
+        "y": 0.03,
+        "z": 14.35
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 200
+    },
+    {
+      "id": 38,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 13.15,
+        "y": 1.5,
+        "z": 1.72
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 36,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 13.88,
+        "y": 0,
+        "z": 1.74
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 400
+    },
+    {
+      "id": 20,
+      "levelId": 1,
+      "filename": "furniture-family-room/coffee-table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 15.48,
+        "y": 0,
+        "z": 8.71
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 34,
+      "levelId": 1,
+      "filename": "furniture-kitchen/refrigerator.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 11.66,
+        "y": 0,
+        "z": 1.91
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1200
+    },
+    {
+      "id": 35,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 12.38,
+        "y": 0,
+        "z": 1.76
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 400
+    },
+    {
+      "id": 39,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 13.9,
+        "y": 1.5,
+        "z": 1.72
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 27,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 13.04,
+        "y": 0,
+        "z": 4.27
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 150
+    },
+    {
+      "id": 23,
+      "levelId": 1,
+      "filename": "electronics/washing-machine.stl",
+      "folderPath": "electronics",
+      "folderName": "electronics",
+      "position": {
+        "x": 10.25,
+        "y": 0,
+        "z": 4.21
+      },
+      "rotation": {
+        "x": 0,
+        "y": 4.71,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 14,
+      "levelId": 1,
+      "filename": "furniture-bathroom/toilet.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 11.18,
+        "y": 0,
+        "z": 12.01
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 41,
+      "levelId": 1,
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 16.59,
+        "y": 0,
+        "z": 3.11
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1500
+    },
+    {
+      "id": 17,
+      "levelId": 1,
+      "filename": "furniture-bathroom/vanity-sink.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 13.39,
+        "y": 0,
+        "z": 13.24
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 400
+    },
+    {
+      "id": 24,
+      "levelId": 1,
+      "filename": "electronics/washing-machine.stl",
+      "folderPath": "electronics",
+      "folderName": "electronics",
+      "position": {
+        "x": 10.27,
+        "y": 0,
+        "z": 4.81
+      },
+      "rotation": {
+        "x": 0,
+        "y": 4.71,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 21,
+      "levelId": 1,
+      "filename": "furniture-family-room/TV_table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 15.48,
+        "y": 0,
+        "z": 10.99
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 400
+    },
+    {
+      "id": 19,
+      "levelId": 1,
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 15.48,
+        "y": 0,
+        "z": 7.27
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1500
+    },
+    {
+      "id": 15,
+      "levelId": 1,
+      "filename": "furniture-bathroom/toilet.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 12.33,
+        "y": 0,
+        "z": 11.98
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.16,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 29,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 13.61,
+        "y": 0,
+        "z": 4.89
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 150
+    },
+    {
+      "id": 40,
+      "levelId": 1,
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 18.16,
+        "y": 0,
+        "z": 4.26
+      },
+      "rotation": {
+        "x": 0,
+        "y": -3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1500
+    },
+    {
+      "id": 11,
       "levelId": 1,
       "filename": "furniture-bedroom/table-lamp.stl",
       "folderPath": "furniture-bedroom",
       "folderName": "furniture-bedroom",
       "position": {
-        "x": 14.77,
-        "y": 0.64,
-        "z": 14.59
+        "x": 7.75,
+        "y": 0.68,
+        "z": 14.26
       },
       "rotation": {
         "x": 0,
@@ -8639,19 +9023,19 @@
       "unitPrice": 200
     },
     {
-      "id": 10,
+      "id": 42,
       "levelId": 1,
-      "filename": "furniture-bedroom/nightstand.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
+      "filename": "furniture-family-room/coffee-table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
       "position": {
-        "x": 4.63,
-        "y": 0.03,
-        "z": 14.35
+        "x": 18.07,
+        "y": 0,
+        "z": 3.12
       },
       "rotation": {
         "x": 0,
-        "y": 0,
+        "y": -1.57,
         "z": 0
       },
       "scale": {
@@ -8660,18 +9044,42 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 200
+      "unitPrice": 0
     },
     {
-      "id": 11,
+      "id": 22,
+      "levelId": 1,
+      "filename": "electronics/TV-55-inch.stl",
+      "folderPath": "electronics",
+      "folderName": "electronics",
+      "position": {
+        "x": 15.48,
+        "y": 0.68,
+        "z": 10.98
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 800
+    },
+    {
+      "id": 7,
       "levelId": 1,
       "filename": "furniture-bedroom/table-lamp.stl",
       "folderPath": "furniture-bedroom",
       "folderName": "furniture-bedroom",
       "position": {
-        "x": 7.75,
-        "y": 0.68,
-        "z": 14.26
+        "x": 14.77,
+        "y": 0.64,
+        "z": 14.59
       },
       "rotation": {
         "x": 0,
@@ -8711,15 +9119,15 @@
       "unitPrice": 80
     },
     {
-      "id": 13,
+      "id": 6,
       "levelId": 1,
-      "filename": "furniture-bathroom/vanity-sink.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
+      "filename": "furniture-bedroom/table-lamp.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 9.56,
-        "y": 0,
-        "z": 14.3
+        "x": 17.22,
+        "y": 0.76,
+        "z": 14.53
       },
       "rotation": {
         "x": 0,
@@ -8732,66 +9140,18 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 400
+      "unitPrice": 80
     },
     {
-      "id": 14,
+      "id": 32,
       "levelId": 1,
-      "filename": "furniture-bathroom/toilet.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
+      "filename": "furniture-kitchen/kitchen-sink.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
       "position": {
-        "x": 11.18,
+        "x": 13.13,
         "y": 0,
-        "z": 12.01
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 300
-    },
-    {
-      "id": 15,
-      "levelId": 1,
-      "filename": "furniture-bathroom/toilet.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
-      "position": {
-        "x": 12.33,
-        "y": 0,
-        "z": 11.98
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.16,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 300
-    },
-    {
-      "id": 16,
-      "levelId": 1,
-      "filename": "furniture-bathroom/bathtub.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
-      "position": {
-        "x": 13.35,
-        "y": 0,
-        "z": 15.29
+        "z": 1.75
       },
       "rotation": {
         "x": 0,
@@ -8804,31 +9164,7 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 17,
-      "levelId": 1,
-      "filename": "furniture-bathroom/vanity-sink.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
-      "position": {
-        "x": 13.39,
-        "y": 0,
-        "z": 13.24
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 400
+      "unitPrice": 500
     },
     {
       "id": 18,
@@ -8855,87 +9191,15 @@
       "unitPrice": 800
     },
     {
-      "id": 19,
+      "id": 28,
       "levelId": 1,
-      "filename": "furniture-family-room/sofa-3-seater.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
       "position": {
-        "x": 15.48,
+        "x": 12.2,
         "y": 0,
-        "z": 7.27
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 1500
-    },
-    {
-      "id": 20,
-      "levelId": 1,
-      "filename": "furniture-family-room/coffee-table.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 15.48,
-        "y": 0,
-        "z": 8.71
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 0
-    },
-    {
-      "id": 21,
-      "levelId": 1,
-      "filename": "furniture-family-room/TV_table.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 15.48,
-        "y": 0,
-        "z": 10.99
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 400
-    },
-    {
-      "id": 22,
-      "levelId": 1,
-      "filename": "electronics/TV-55-inch.stl",
-      "folderPath": "electronics",
-      "folderName": "electronics",
-      "position": {
-        "x": 15.48,
-        "y": 0.68,
-        "z": 10.98
+        "z": 4.89
       },
       "rotation": {
         "x": 0,
@@ -8948,22 +9212,22 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 800
+      "unitPrice": 150
     },
     {
-      "id": 23,
+      "id": 16,
       "levelId": 1,
-      "filename": "electronics/washing-machine.stl",
-      "folderPath": "electronics",
-      "folderName": "electronics",
+      "filename": "furniture-bathroom/bathtub.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
       "position": {
-        "x": 10.25,
+        "x": 13.35,
         "y": 0,
-        "z": 4.21
+        "z": 15.29
       },
       "rotation": {
         "x": 0,
-        "y": 4.71,
+        "y": 0,
         "z": 0
       },
       "scale": {
@@ -8972,22 +9236,22 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 0
+      "unitPrice": 800
     },
     {
-      "id": 24,
+      "id": 37,
       "levelId": 1,
-      "filename": "electronics/washing-machine.stl",
-      "folderPath": "electronics",
-      "folderName": "electronics",
+      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
       "position": {
-        "x": 10.27,
-        "y": 0,
-        "z": 4.81
+        "x": 12.41,
+        "y": 1.5,
+        "z": 1.73
       },
       "rotation": {
         "x": 0,
-        "y": 4.71,
+        "y": 0,
         "z": 0
       },
       "scale": {
@@ -9023,15 +9287,15 @@
       "unitPrice": 150
     },
     {
-      "id": 27,
+      "id": 13,
       "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "filename": "furniture-bathroom/vanity-sink.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
       "position": {
-        "x": 13.04,
+        "x": 9.56,
         "y": 0,
-        "z": 4.27
+        "z": 14.3
       },
       "rotation": {
         "x": 0,
@@ -9044,138 +9308,18 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 150
+      "unitPrice": 400
     },
     {
-      "id": 28,
+      "id": 3,
       "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "filename": "furniture-bedroom/king-bed.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 12.2,
+        "x": 16.08,
         "y": 0,
-        "z": 4.89
-      },
-      "rotation": {
-        "x": 0,
-        "y": 1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 150
-    },
-    {
-      "id": 29,
-      "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
-      "position": {
-        "x": 13.61,
-        "y": 0,
-        "z": 4.89
-      },
-      "rotation": {
-        "x": 0,
-        "y": -1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 150
-    },
-    {
-      "id": 30,
-      "levelId": 1,
-      "filename": "furnitures-dining/dining-table-4-seating.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
-      "position": {
-        "x": 13.04,
-        "y": 0,
-        "z": 4.89
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 600
-    },
-    {
-      "id": 31,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-island.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 13.51,
-        "y": 0,
-        "z": 2.91
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 0
-    },
-    {
-      "id": 32,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-sink.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 13.13,
-        "y": 0,
-        "z": 1.75
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 500
-    },
-    {
-      "id": 34,
-      "levelId": 1,
-      "filename": "furniture-kitchen/refrigerator.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 11.66,
-        "y": 0,
-        "z": 1.91
+        "z": 13.64
       },
       "rotation": {
         "x": 0,
@@ -9191,15 +9335,15 @@
       "unitPrice": 1200
     },
     {
-      "id": 35,
+      "id": 2,
       "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
+      "filename": "vehicle/sedan-car.stl",
+      "folderPath": "vehicle",
+      "folderName": "vehicle",
       "position": {
-        "x": 12.38,
+        "x": 2.94,
         "y": 0,
-        "z": 1.76
+        "z": 4.49
       },
       "rotation": {
         "x": 0,
@@ -9212,18 +9356,18 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 400
+      "unitPrice": 25000
     },
     {
-      "id": 36,
+      "id": 1,
       "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
+      "filename": "vehicle/sedan-car.stl",
+      "folderPath": "vehicle",
+      "folderName": "vehicle",
       "position": {
-        "x": 13.88,
+        "x": 2.9,
         "y": 0,
-        "z": 1.74
+        "z": 2.52
       },
       "rotation": {
         "x": 0,
@@ -9236,42 +9380,18 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 400
+      "unitPrice": 25000
     },
     {
-      "id": 37,
+      "id": 45,
       "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
       "position": {
-        "x": 12.41,
-        "y": 1.5,
-        "z": 1.73
-      },
-      "rotation": {
-        "x": 0,
+        "x": 13.92,
         "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 0
-    },
-    {
-      "id": 38,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 13.15,
-        "y": 1.5,
-        "z": 1.72
+        "z": 3.4
       },
       "rotation": {
         "x": 0,
@@ -9287,15 +9407,15 @@
       "unitPrice": 0
     },
     {
-      "id": 39,
+      "id": 44,
       "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-upper-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
       "position": {
-        "x": 13.9,
-        "y": 1.5,
-        "z": 1.72
+        "x": 13.53,
+        "y": 0,
+        "z": 3.43
       },
       "rotation": {
         "x": 0,
@@ -9311,67 +9431,19 @@
       "unitPrice": 0
     },
     {
-      "id": 40,
+      "id": 43,
       "levelId": 1,
-      "filename": "furniture-family-room/sofa-3-seater.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
       "position": {
-        "x": 18.16,
-        "y": 0,
-        "z": 4.26
+        "x": 13.07,
+        "y": 0.03,
+        "z": 3.4
       },
       "rotation": {
         "x": 0,
-        "y": -3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 1500
-    },
-    {
-      "id": 41,
-      "levelId": 1,
-      "filename": "furniture-family-room/sofa-3-seater.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 16.59,
         "y": 0,
-        "z": 3.11
-      },
-      "rotation": {
-        "x": 0,
-        "y": 1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 1500
-    },
-    {
-      "id": 42,
-      "levelId": 1,
-      "filename": "furniture-family-room/coffee-table.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 18.07,
-        "y": 0,
-        "z": 3.12
-      },
-      "rotation": {
-        "x": 0,
-        "y": -1.57,
         "z": 0
       },
       "scale": {
@@ -9554,5 +9626,6 @@
     "70": true,
     "108": true,
     "109": true
-  }
+  },
+  "cadProjectInfo": {}
 }

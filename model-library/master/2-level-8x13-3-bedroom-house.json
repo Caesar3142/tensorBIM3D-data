@@ -3505,7 +3505,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3548,7 +3548,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3591,7 +3591,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3634,7 +3634,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3677,7 +3677,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3720,7 +3720,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3763,7 +3763,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3806,7 +3806,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3849,7 +3849,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3892,7 +3892,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3935,7 +3935,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -3978,7 +3978,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4033,7 +4033,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4097,7 +4097,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4161,7 +4161,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4225,7 +4225,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4289,7 +4289,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4353,7 +4353,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4417,7 +4417,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4481,7 +4481,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4545,7 +4545,7 @@
       "levelId": 2,
       "thickness": 0.25,
       "mode": "slab",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -4597,7 +4597,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4640,7 +4640,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4683,7 +4683,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4726,7 +4726,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4769,7 +4769,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4812,7 +4812,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4855,7 +4855,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4898,7 +4898,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4941,7 +4941,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -4984,7 +4984,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5027,7 +5027,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5070,7 +5070,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5113,7 +5113,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5156,7 +5156,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5242,7 +5242,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5283,7 +5283,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5324,7 +5324,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5365,7 +5365,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5406,7 +5406,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5447,7 +5447,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "railing",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5488,7 +5488,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5526,7 +5526,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5564,7 +5564,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5602,7 +5602,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5640,7 +5640,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5678,7 +5678,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5716,7 +5716,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "wall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5759,7 +5759,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "door",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -5805,7 +5805,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "master bedroom",
@@ -5858,7 +5858,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "bedroom 2",
@@ -5911,7 +5911,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "bathroom 2",
@@ -5964,7 +5964,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "master bathroom",
@@ -6017,7 +6017,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "family room",
@@ -6070,7 +6070,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "dressing room",
@@ -6123,7 +6123,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "walk in closet",
@@ -6168,7 +6168,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6207,7 +6207,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6246,7 +6246,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6285,7 +6285,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6324,7 +6324,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6363,7 +6363,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6402,7 +6402,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "window",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -6453,7 +6453,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6518,7 +6518,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6583,7 +6583,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6648,7 +6648,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6713,7 +6713,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6778,7 +6778,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6843,7 +6843,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6908,7 +6908,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -6973,7 +6973,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -7038,7 +7038,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -7107,7 +7107,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "label",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "balcony",
@@ -7174,7 +7174,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "ceiling",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -7237,7 +7237,7 @@
       "levelId": 2,
       "thickness": 0.2,
       "mode": "roof",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "roofType": "flat",
@@ -7303,7 +7303,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "pillar",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -7368,7 +7368,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "pillar",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -7433,7 +7433,7 @@
       "levelId": 2,
       "thickness": 0.15,
       "mode": "pillar",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -8021,7 +8021,7 @@
       "levelId": 2,
       "thickness": 0.05,
       "mode": "curtainWall",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "lines",
       "labelText": "",
@@ -8070,7 +8070,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -8136,7 +8136,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -8202,7 +8202,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -8268,7 +8268,7 @@
       "levelId": 2,
       "thickness": 0.02,
       "mode": "floor",
-      "visible": true,
+      "visible": false,
       "sketchLayerVisible": true,
       "toolType": "rectangle",
       "labelText": "",
@@ -8319,7 +8319,7 @@
       "yMax": 5.6
     }
   ],
-  "selectedLevelId": 2,
+  "selectedLevelId": 1,
   "wallThickness": 0.15,
   "defaultLampDiameter": 0.15,
   "defaultLampColor": "#ffffcc",
@@ -8328,78 +8328,6 @@
   "defaultStairGoing": 0.28,
   "hasWalls": true,
   "stlImports": [
-    {
-      "id": 1,
-      "levelId": 1,
-      "filename": "vehicle/sedan-car.stl",
-      "folderPath": "vehicle",
-      "folderName": "vehicle",
-      "position": {
-        "x": 2.5,
-        "y": 0,
-        "z": 1.95
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 25000
-    },
-    {
-      "id": 2,
-      "levelId": 1,
-      "filename": "furniture-family-room/sofa-3-seater.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 3.25,
-        "y": 0,
-        "z": 7.1
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 700
-    },
-    {
-      "id": 3,
-      "levelId": 1,
-      "filename": "furniture-family-room/TV_table.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 3.42,
-        "y": 0,
-        "z": 4.32
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 300
-    },
     {
       "id": 4,
       "levelId": 1,
@@ -8423,30 +8351,6 @@
       },
       "visible": true,
       "unitPrice": 600
-    },
-    {
-      "id": 5,
-      "levelId": 1,
-      "filename": "furniture-family-room/coffee-table.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
-      "position": {
-        "x": 3.25,
-        "y": 0,
-        "z": 5.95
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 300
     },
     {
       "id": 6,
@@ -8473,15 +8377,39 @@
       "unitPrice": 300
     },
     {
-      "id": 7,
-      "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "id": 26,
+      "levelId": 2,
+      "filename": "furniture-bedroom/nightstand-32x35x59cm.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 7,
+        "x": 12.17,
         "y": 0,
-        "z": 5.1
+        "z": 0.42
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 800
+    },
+    {
+      "id": 5,
+      "levelId": 1,
+      "filename": "furniture-family-room/coffee-table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 3.25,
+        "y": 0,
+        "z": 5.95
       },
       "rotation": {
         "x": 0,
@@ -8497,19 +8425,19 @@
       "unitPrice": 300
     },
     {
-      "id": 8,
-      "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "id": 36,
+      "levelId": 2,
+      "filename": "furniture-bedroom/nightstand.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 7,
-        "y": 0.04,
-        "z": 6.24
+        "x": 4.67,
+        "y": 0,
+        "z": 7.63
       },
       "rotation": {
         "x": 0,
-        "y": 3.14,
+        "y": 0,
         "z": 0
       },
       "scale": {
@@ -8517,23 +8445,23 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
-      "unitPrice": 300
+      "visible": false,
+      "unitPrice": 800
     },
     {
-      "id": 9,
-      "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "id": 27,
+      "levelId": 2,
+      "filename": "furniture-bedroom/nightstand-32x35x59cm.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 6.56,
+        "x": 9.79,
         "y": 0,
-        "z": 5.65
+        "z": 0.48
       },
       "rotation": {
         "x": 0,
-        "y": 1.57,
+        "y": 0,
         "z": 0
       },
       "scale": {
@@ -8541,23 +8469,23 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
-      "unitPrice": 300
+      "visible": false,
+      "unitPrice": 800
     },
     {
-      "id": 10,
+      "id": 22,
       "levelId": 1,
-      "filename": "furnitures-dining/dining-chair.stl",
-      "folderPath": "furnitures-dining",
-      "folderName": "furnitures-dining",
+      "filename": "furniture-bedroom/nightstand.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 7.39,
+        "x": 9.77,
         "y": 0,
-        "z": 5.65
+        "z": 0.37
       },
       "rotation": {
         "x": 0,
-        "y": -1.57,
+        "y": 0,
         "z": 0
       },
       "scale": {
@@ -8566,7 +8494,7 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 300
+      "unitPrice": 800
     },
     {
       "id": 11,
@@ -8593,67 +8521,19 @@
       "unitPrice": 0
     },
     {
-      "id": 12,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-stove-500x800x850.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 10.2,
-        "y": 0,
-        "z": 7.62
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 1000
-    },
-    {
-      "id": 13,
+      "id": 16,
       "levelId": 1,
       "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
       "folderPath": "furniture-kitchen",
       "folderName": "furniture-kitchen",
       "position": {
-        "x": 11.04,
-        "y": 0.18,
-        "z": 7.59
-      },
-      "rotation": {
-        "x": 0,
-        "y": 3.14,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 500
-    },
-    {
-      "id": 14,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-sink.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 11.85,
+        "x": 12.62,
         "y": 0,
-        "z": 7.6
+        "z": 5.5
       },
       "rotation": {
         "x": 0,
-        "y": 3.14,
+        "y": -1.57,
         "z": 0
       },
       "scale": {
@@ -8689,102 +8569,6 @@
       "unitPrice": 1200
     },
     {
-      "id": 16,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 12.62,
-        "y": 0,
-        "z": 5.5
-      },
-      "rotation": {
-        "x": 0,
-        "y": -1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 500
-    },
-    {
-      "id": 17,
-      "levelId": 1,
-      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
-      "folderPath": "furniture-kitchen",
-      "folderName": "furniture-kitchen",
-      "position": {
-        "x": 12.61,
-        "y": 0,
-        "z": 6.31
-      },
-      "rotation": {
-        "x": 0,
-        "y": -1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 500
-    },
-    {
-      "id": 18,
-      "levelId": 1,
-      "filename": "furniture-bedroom/queen-bed.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 11.01,
-        "y": 0,
-        "z": 1.2
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 900
-    },
-    {
-      "id": 19,
-      "levelId": 1,
-      "filename": "furniture-bedroom/table-lamp.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 12.26,
-        "y": 0.67,
-        "z": 0.3
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
       "id": 20,
       "levelId": 1,
       "filename": "furniture-bedroom/nightstand.stl",
@@ -8809,63 +8593,15 @@
       "unitPrice": 800
     },
     {
-      "id": 21,
-      "levelId": 1,
-      "filename": "furniture-bedroom/table-lamp.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 9.75,
-        "y": 0.68,
-        "z": 0.31
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 22,
-      "levelId": 1,
-      "filename": "furniture-bedroom/nightstand.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 9.77,
-        "y": 0,
-        "z": 0.37
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 23,
-      "levelId": 1,
-      "filename": "furniture-bathroom/vanity-sink.stl",
+      "id": 31,
+      "levelId": 2,
+      "filename": "furniture-bathroom/toilet.stl",
       "folderPath": "furniture-bathroom",
       "folderName": "furniture-bathroom",
       "position": {
-        "x": 7.41,
+        "x": 11.49,
         "y": 0,
-        "z": 2.08
+        "z": 6.23
       },
       "rotation": {
         "x": 0,
@@ -8877,8 +8613,32 @@
         "y": 1,
         "z": 1
       },
+      "visible": false,
+      "unitPrice": 800
+    },
+    {
+      "id": 3,
+      "levelId": 1,
+      "filename": "furniture-family-room/TV_table.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
+      "position": {
+        "x": 3.42,
+        "y": 0,
+        "z": 4.32
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
       "visible": true,
-      "unitPrice": 500
+      "unitPrice": 300
     },
     {
       "id": 24,
@@ -8905,87 +8665,15 @@
       "unitPrice": 800
     },
     {
-      "id": 25,
-      "levelId": 2,
-      "filename": "furniture-bedroom/queen-bed.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 11,
-        "y": 0,
-        "z": 1.17
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 900
-    },
-    {
-      "id": 26,
-      "levelId": 2,
-      "filename": "furniture-bedroom/nightstand-32x35x59cm.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 12.17,
-        "y": 0,
-        "z": 0.42
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 27,
-      "levelId": 2,
-      "filename": "furniture-bedroom/nightstand-32x35x59cm.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
-      "position": {
-        "x": 9.79,
-        "y": 0,
-        "z": 0.48
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 28,
+      "id": 38,
       "levelId": 2,
       "filename": "furniture-bedroom/table-lamp.stl",
       "folderPath": "furniture-bedroom",
       "folderName": "furniture-bedroom",
       "position": {
-        "x": 12.18,
-        "y": 0.58,
-        "z": 0.43
+        "x": 4.69,
+        "y": 0.64,
+        "z": 7.62
       },
       "rotation": {
         "x": 0,
@@ -8997,23 +8685,23 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 800
     },
     {
-      "id": 29,
-      "levelId": 2,
-      "filename": "furniture-bedroom/table-lamp.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
+      "id": 14,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-sink.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
       "position": {
-        "x": 9.79,
-        "y": 0.6,
-        "z": 0.44
+        "x": 11.85,
+        "y": 0,
+        "z": 7.6
       },
       "rotation": {
         "x": 0,
-        "y": 0,
+        "y": 3.14,
         "z": 0
       },
       "scale": {
@@ -9022,7 +8710,79 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 800
+      "unitPrice": 500
+    },
+    {
+      "id": 10,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 7.39,
+        "y": 0,
+        "z": 5.65
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 9,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 6.56,
+        "y": 0,
+        "z": 5.65
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 23,
+      "levelId": 1,
+      "filename": "furniture-bathroom/vanity-sink.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 7.41,
+        "y": 0,
+        "z": 2.08
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
     },
     {
       "id": 30,
@@ -9045,43 +8805,19 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 500
     },
     {
-      "id": 31,
+      "id": 40,
       "levelId": 2,
-      "filename": "furniture-bathroom/toilet.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
       "position": {
-        "x": 11.49,
+        "x": 3.25,
         "y": 0,
-        "z": 6.23
-      },
-      "rotation": {
-        "x": 0,
-        "y": -1.57,
-        "z": 0
-      },
-      "scale": {
-        "x": 1,
-        "y": 1,
-        "z": 1
-      },
-      "visible": true,
-      "unitPrice": 800
-    },
-    {
-      "id": 32,
-      "levelId": 2,
-      "filename": "furniture-bathroom/bathtub.stl",
-      "folderPath": "furniture-bathroom",
-      "folderName": "furniture-bathroom",
-      "position": {
-        "x": 9.97,
-        "y": 0,
-        "z": 7.48
+        "z": 0.8
       },
       "rotation": {
         "x": 0,
@@ -9093,8 +8829,8 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
-      "unitPrice": 800
+      "visible": false,
+      "unitPrice": 700
     },
     {
       "id": 33,
@@ -9117,7 +8853,7 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 500
     },
     {
@@ -9141,19 +8877,91 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 800
     },
     {
-      "id": 35,
-      "levelId": 2,
-      "filename": "furniture-bedroom/king-bed.stl",
-      "folderPath": "furniture-bedroom",
-      "folderName": "furniture-bedroom",
+      "id": 2,
+      "levelId": 1,
+      "filename": "furniture-family-room/sofa-3-seater.stl",
+      "folderPath": "furniture-family-room",
+      "folderName": "furniture-family-room",
       "position": {
-        "x": 3.28,
+        "x": 3.25,
         "y": 0,
-        "z": 6.83
+        "z": 7.1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 700
+    },
+    {
+      "id": 17,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 12.61,
+        "y": 0,
+        "z": 6.31
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 13,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-cabinet-500x800.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 11.04,
+        "y": 0.18,
+        "z": 7.59
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 500
+    },
+    {
+      "id": 7,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 7,
+        "y": 0,
+        "z": 5.1
       },
       "rotation": {
         "x": 0,
@@ -9166,18 +8974,18 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 1200
+      "unitPrice": 300
     },
     {
-      "id": 36,
-      "levelId": 2,
-      "filename": "furniture-bedroom/nightstand.stl",
+      "id": 19,
+      "levelId": 1,
+      "filename": "furniture-bedroom/table-lamp.stl",
       "folderPath": "furniture-bedroom",
       "folderName": "furniture-bedroom",
       "position": {
-        "x": 4.67,
-        "y": 0,
-        "z": 7.63
+        "x": 12.26,
+        "y": 0.67,
+        "z": 0.3
       },
       "rotation": {
         "x": 0,
@@ -9213,19 +9021,43 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 800
     },
     {
-      "id": 38,
+      "id": 28,
       "levelId": 2,
       "filename": "furniture-bedroom/table-lamp.stl",
       "folderPath": "furniture-bedroom",
       "folderName": "furniture-bedroom",
       "position": {
-        "x": 4.69,
-        "y": 0.64,
-        "z": 7.62
+        "x": 12.18,
+        "y": 0.58,
+        "z": 0.43
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 800
+    },
+    {
+      "id": 21,
+      "levelId": 1,
+      "filename": "furniture-bedroom/table-lamp.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 9.75,
+        "y": 0.68,
+        "z": 0.31
       },
       "rotation": {
         "x": 0,
@@ -9239,6 +9071,102 @@
       },
       "visible": true,
       "unitPrice": 800
+    },
+    {
+      "id": 12,
+      "levelId": 1,
+      "filename": "furniture-kitchen/kitchen-stove-500x800x850.stl",
+      "folderPath": "furniture-kitchen",
+      "folderName": "furniture-kitchen",
+      "position": {
+        "x": 10.2,
+        "y": 0,
+        "z": 7.62
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 1000
+    },
+    {
+      "id": 29,
+      "levelId": 2,
+      "filename": "furniture-bedroom/table-lamp.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 9.79,
+        "y": 0.6,
+        "z": 0.44
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 800
+    },
+    {
+      "id": 8,
+      "levelId": 1,
+      "filename": "furnitures-dining/dining-chair.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 7,
+        "y": 0.04,
+        "z": 6.24
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.14,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 300
+    },
+    {
+      "id": 18,
+      "levelId": 1,
+      "filename": "furniture-bedroom/queen-bed.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 11.01,
+        "y": 0,
+        "z": 1.2
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 900
     },
     {
       "id": 39,
@@ -9261,19 +9189,91 @@
         "y": 1,
         "z": 1
       },
-      "visible": true,
+      "visible": false,
       "unitPrice": 800
     },
     {
-      "id": 40,
+      "id": 25,
       "levelId": 2,
-      "filename": "furniture-family-room/sofa-3-seater.stl",
-      "folderPath": "furniture-family-room",
-      "folderName": "furniture-family-room",
+      "filename": "furniture-bedroom/queen-bed.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
       "position": {
-        "x": 3.25,
+        "x": 11,
         "y": 0,
-        "z": 0.8
+        "z": 1.17
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 900
+    },
+    {
+      "id": 32,
+      "levelId": 2,
+      "filename": "furniture-bathroom/bathtub.stl",
+      "folderPath": "furniture-bathroom",
+      "folderName": "furniture-bathroom",
+      "position": {
+        "x": 9.97,
+        "y": 0,
+        "z": 7.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 800
+    },
+    {
+      "id": 35,
+      "levelId": 2,
+      "filename": "furniture-bedroom/king-bed.stl",
+      "folderPath": "furniture-bedroom",
+      "folderName": "furniture-bedroom",
+      "position": {
+        "x": 3.28,
+        "y": 0,
+        "z": 6.83
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": false,
+      "unitPrice": 1200
+    },
+    {
+      "id": 1,
+      "levelId": 1,
+      "filename": "vehicle/sedan-car.stl",
+      "folderPath": "vehicle",
+      "folderName": "vehicle",
+      "position": {
+        "x": 2.5,
+        "y": 0,
+        "z": 1.95
       },
       "rotation": {
         "x": 0,
@@ -9286,7 +9286,79 @@
         "z": 1
       },
       "visible": true,
-      "unitPrice": 700
+      "unitPrice": 25000
+    },
+    {
+      "id": 41,
+      "levelId": 1,
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 8.49,
+        "y": 0,
+        "z": 6.64
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 43,
+      "levelId": 1,
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 8.5,
+        "y": 0,
+        "z": 7.15
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
+    },
+    {
+      "id": 42,
+      "levelId": 1,
+      "filename": "furnitures-dining/bar-stool.stl",
+      "folderPath": "furnitures-dining",
+      "folderName": "furnitures-dining",
+      "position": {
+        "x": 8.47,
+        "y": 0,
+        "z": 7.63
+      },
+      "rotation": {
+        "x": 0,
+        "y": -1.57,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "visible": true,
+      "unitPrice": 0
     }
   ],
   "dimensionTextOverrides": {
