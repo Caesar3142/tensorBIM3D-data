@@ -8,11 +8,7 @@ permissions:
 on:
   push:
     branches: [main]
-    paths:
-      - 'articles/**'
-      - 'geometry-library/**'
-      - 'scripts/**'
-      - '.github/workflows/build-manifests.yml'
+    # Run on every push (paths filter can miss geometry-library changes in some cases)
   workflow_dispatch:  # Manual run: Actions → Build manifests → Run workflow
 
 jobs:
