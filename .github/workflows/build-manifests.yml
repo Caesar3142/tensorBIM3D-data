@@ -22,6 +22,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Full clone for reliable push
 
       - uses: actions/setup-node@v4
         with:
@@ -41,6 +42,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            git status
             git commit -m "chore: auto-update articles-bundle and geometry-library-manifest"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
